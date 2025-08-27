@@ -1,7 +1,7 @@
 # sIBTEDS-Workshop-2025
 R scripts for the sIBTEDS workshop — shared resources
 
-# Workshop Scripts
+## Workshop Scripts
 
 This repository contains R scripts that will be used as resources in the workshop.
 
