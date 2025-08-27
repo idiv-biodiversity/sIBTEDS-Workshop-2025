@@ -7,7 +7,7 @@ This repository contains R scripts that will be used as resources in the worksho
 
 ## Available Scripts
 
-- [Alpha & Gamma Rarefaction Curves](./Alfa%20&%20Gamma%20Rarefaction%20Curves/Alfa&GammaRarefactionCurves.R)  
+- [Alpha & Gamma Rarefaction Curves](./Alfa_Gamma_Rarefaction_Curves/Alfa&GammaRarefactionCurves.R)  
   Alpha and gamma rarefaction curves.
 
 - [Download Metadata from NCBI](./DownloadMetadataFromNCBI/ScriptRentrezPackage_EMP.R)  
