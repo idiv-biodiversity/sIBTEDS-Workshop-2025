@@ -27,7 +27,8 @@ Each group has its own folder where members can add the scripts they develop dur
 - [Pampa Group](./Pampa_Group/)  
 - [Plants and Soils Group](./Plants_and_Soils_Group/)  
 - [Soil Group](./Soil_Group/)  
-- [Water Group](./Water_Group/)  
+- [Water Group](./Water_Group/)
+- [Gram_Positive_Negative_Group](./Gram_Positive_Negative_Group/)  
 
 ## How to Download
 
