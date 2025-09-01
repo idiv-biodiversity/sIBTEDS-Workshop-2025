@@ -28,7 +28,7 @@ Each group has its own folder where members can add the scripts they develop dur
 - [Plants and Soils Group](./Plants_and_Soils_Group/)  
 - [Soil Group](./Soil_Group/)  
 - [Water Group](./Water_Group/)
-- [Gram_Positive_Negative_Group](./Gram_Positive_Negative_Group/)  
+- [Gram Positive and Negative Group](./Gram_Positive_Negative_Group/)  
 
 ## How to Download
 
